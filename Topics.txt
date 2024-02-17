@@ -1,0 +1,13 @@
+
+
+
+ 1) Two way binding in React
+ 2) Routing, Dynamic Routing
+ 3) API calling (fetch API / Axios)  => install axios in terminal then use axios, similar to fetch, using async and await
+ 4) useEffect  => when you dont want to run or reload again, then you useEffect and run the functions init
+ 5) Showing flash message (react toastify)
+ 6) Context API
+ 7) Server side rendering vs client side rendering
+ 8) How to do server side rendering
+ 9) Deployment via netlify 
+ 
